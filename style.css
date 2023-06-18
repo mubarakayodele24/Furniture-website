@@ -1,0 +1,173 @@
+#header{
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 15px;
+
+}
+
+li a:hover:not(.active) {
+  background-color: #DFE9F3;
+}
+
+h1{
+	font-size: 40px;
+	color: #044C72;
+}
+
+#main{
+background-image: url("img/background.jpg");
+height: 500px;
+}
+
+.container{
+	margin-top: 50px;
+	margin-right: 30px;
+	background-color: #DFE9F3;
+	width: 450px;
+	padding: 20px;
+	float: right;
+	border-radius: 5px;
+
+}
+
+button{
+	padding: 10px 40px 10px 40px;
+   border-radius: 20px;
+   border: none;
+   background-color: #044C72;
+   margin-top: 15px;
+   color: #fff;
+}
+
+.collection{
+	text-align: center;
+	padding: 60px;
+}
+
+.flex-container{
+	display: flex;
+	padding-top: 40px;
+}
+
+.collection1{
+	border-top-left-radius: 50px;
+	margin-top: 40px;
+}
+
+.collection3{
+	border-bottom-right-radius: 50px;
+	margin-top: 30px;
+}
+
+
+h3{
+	font-size: 30px;
+}
+
+
+h4{
+	font-size: 30px;
+}
+
+.text{
+padding-top: 80px;
+}
+
+
+.girl{
+	border-top-left-radius: 100px;
+	border-bottom-right-radius: 50px;
+	padding-left: 50px;
+}
+
+.flex-container2{
+	display: flex;
+	padding: 50px 50px 20px 60px;
+	background-color: #DFE9F3;
+}
+
+
+.range{
+	text-align: center;
+}
+
+.flex-container3{
+	display: flex;
+	padding: 60px 60px 30px 60px;
+}
+
+.work{
+	text-align: center;
+}
+
+.flex-container4{
+	display: flex;
+	padding: 80px 60px 30px 60px;
+}
+
+h5{
+	font-size: 15px;
+}
+
+.mail{
+	text-align: center;
+	background-color: #DFE9F3;
+	padding-top: 30px;
+	padding-bottom: 25px;
+}
+
+.input{
+	padding-top: 30px;
+}
+
+span{
+	font-size: 20px;
+}
+
+input[type=text]{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 300px;
+	border: 1px solid #044C72;
+}
+
+input[type=submit]{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #044C72;
+   color: #fff;
+   border: none;
+}
+
+h6{
+	font-size: 17px;
+}
+
+.footer{
+	display: flex;
+	background-color: #044C72;
+	padding: 40px 60px 30px 60px;
+	color: #fff;
+}
